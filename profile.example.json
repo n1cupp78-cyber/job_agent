@@ -1,0 +1,27 @@
+{
+  "keywords_for_search": [
+    "project manager telecom",
+    "program manager energy",
+    "technical project manager cloud",
+    "product manager AI"
+  ],
+  "target_roles": [
+    "Project Manager",
+    "Program Manager",
+    "Product Manager"
+  ],
+  "target_industries": [
+    "Telecommunications",
+    "Energy",
+    "AI / Cloud"
+  ],
+  "aspirational_skills": [
+    "AWS",
+    "Cloud architecture",
+    "AI/ML fundamentals"
+  ],
+  "company_sources": {
+    "greenhouse_tokens": [],
+    "lever_tokens": []
+  }
+}

@@ -1,0 +1,23 @@
+# Secrets: never commit API keys
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Your personal search profile (copy from profile.example.json)
+profile.json
+
+# Generated job reports (personal search results)
+reports/
+
+# Temp audio / test files from voice setup
+*.wav
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
